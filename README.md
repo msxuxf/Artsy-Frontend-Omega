@@ -34,7 +34,7 @@ Colors
 
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/colors.PNG" alt="logo" width="400"/>
 
-View your artwork 
+View your artwork, and you can publish it to the gallery or send it to your email
 
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/myArtworkPage.PNG" alt="logo" width="400"/>
 
