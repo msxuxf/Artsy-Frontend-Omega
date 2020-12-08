@@ -9,11 +9,11 @@ Artsy is a painting app designed to increase patient usage of the incentive spir
 
 ## Demo
 
-Home Scene
+Home scene
 
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/homePage.PNG" alt="logo" width="400"/>
 
-Buy Colors, brushes, and templates
+Buy colors, brushes, and templates
 
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/coloringPagesShop.PNG" alt="logo" width="400"/>
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/giraffe.PNG" alt="logo" width="400"/>
@@ -42,6 +42,6 @@ Gallery
 
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/gallery.PNG" alt="logo" width="400"/>
 
-Tag other painting in gallery
+Tag other paintings in gallery
 
 <img src="https://github.com/msxuxf/Artsy-Frontend-Omega/blob/master/Images/galleryPopUp.PNG" alt="logo" width="400"/>
